@@ -5,3 +5,8 @@ It is something which I have been meaning to do for a long time and am really gl
 https://guides.github.com/activities/hello-world/
 
 Learning how to make changes in the branch and committing them to readme-edits.
+
+Adding some resource pages to learn more about GitHub
+GitHub Guides: https://guides.github.com/
+GitHub YouTube Channel: https://www.youtube.com/githubguides
+On Demand Trainings: https://lab.github.com/
